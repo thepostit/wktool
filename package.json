@@ -1,0 +1,15 @@
+{
+  "name": "wktool",
+  "version": "1.0.0",
+  "description": "Collect and manage review data from wanikani users",
+  "author": "Eric Mathews",
+  "type": "module",
+  "main": "main.ts",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "electron": "^38.4.0"
+  }
+}
